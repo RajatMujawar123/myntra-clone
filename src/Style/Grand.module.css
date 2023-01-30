@@ -1,0 +1,11 @@
+#adm{
+    width: 99%;
+    height: 150px;
+    border: 0px solid transparent;
+    margin-top: 20px;
+}
+#adm>img{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}

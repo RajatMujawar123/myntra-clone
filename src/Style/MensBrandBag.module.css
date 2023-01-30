@@ -1,0 +1,17 @@
+#bag{
+    border: 1px solid transparent;
+    width: 99%;
+    height: 190px;
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    grid-template-rows: repeat(2,1fr);
+    cursor: pointer;
+}
+#bag>div{
+    border: 0px solid transparent;
+}
+#bag>div>img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}

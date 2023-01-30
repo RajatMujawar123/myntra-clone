@@ -1,0 +1,12 @@
+#beg{
+    border: 0px solid transparent;
+    width: 99%;
+    height: 100px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#beg>img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}

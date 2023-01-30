@@ -1,0 +1,24 @@
+#main{
+    border: 1px solid transparent;
+    width: 99%;
+    height: 210px;
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    cursor: pointer;
+}
+#main>div{
+    border: 1px solid transparent;
+}
+#main>div>img{
+    width: 102%;
+}
+#omg>div{
+    border: 1px solid transparent;
+    width: 202%;
+    height: 150px;
+    margin-top: 10px;
+}
+#omg>div>img{
+    width: 100%;
+}

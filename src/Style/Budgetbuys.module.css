@@ -1,0 +1,10 @@
+#buys{
+    border: 0px solid transparent;
+    width: 100%;
+    height: 100px;
+}
+#buys>img{
+    width: 100%;
+    width: 100%;
+    margin: auto;
+}
